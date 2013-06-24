@@ -1,6 +1,9 @@
 CommonDocExporter
 =================
 
-Simple library for generating documents
+Simple library for generating documents.
 
-The class to use is the ODTExportFormat.
+Create an instance of an implementation of ExportFormat and
+call methods to generate a document (see ExportFormat for details).
+
+Currently only ODT export is supported in ODTExportFormat.
