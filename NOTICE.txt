@@ -1,0 +1,7 @@
+Common Doc Exporter
+Copyright 2012-2013 Martijn Stellinga
+
+This product includes software developed by
+Martijn Stellinga (http://www.softwaredesign.nl)
+under the Apache License Version 2.0.
+
